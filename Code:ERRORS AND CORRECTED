@@ -1,0 +1,5 @@
+dmin=5;
+s=dmin-1;
+printf("number of detected errors s<=%d\n",s)
+t=(dmin-1)/2;
+printf("number of corrected errors t<=%d\n",t);
